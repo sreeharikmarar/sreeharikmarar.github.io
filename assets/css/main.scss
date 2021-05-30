@@ -1,0 +1,28 @@
+---
+---
+
+@import "no-style-please";
+
+.container {
+  max-width: 640px;
+  margin: 0 auto;
+  padding: 4rem 2rem; 
+  li a {
+    font-size: 22px
+  }
+}
+
+.items {
+  max-width: 640px;
+  margin: 0 auto;
+  padding: 4rem 2rem; 
+}
+
+.backlink a {
+	text-decoration: none;
+}
+
+a {
+  color: #5B2C6F;
+  font-weight: bold;
+}
