@@ -27,7 +27,8 @@ theme_config:
 
 sass:
   style: :compressed
-  
+  sass_dir: ./_sass
+
 # Build settings
 markdown: kramdown
 theme: no-style-please
