@@ -4,15 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Hey there!  
+Hey, I'm Sreehari  
 
-My name is **Sreehari**   
+I currently work as an SRE at [GoJek](https://gojek.com)'s Engineering Platform Team (Kernel), where I primarily focus on the infrastructure side of things such as Containerisation, Scalability, Reliability, Observability, Change management, Capacity planning & Automation.
 
-
-
-I currently work as an SRE @ [GoJek](https://gojek.com)'s Engineering Platform Team (Kernel), where I primarily focus on the infrastructure side of things such as Containerisation, Scalability, Reliability, Monitoring, Change management, Capacity planning & Automation.
-
-What interests me more in the SRE space is, I get to work on different facets of the problem, both development and operations by applying software engineering principles and practices.  
+What interests me more in the SRE space is, I get to work on my favorite languages and tools to solve different facets of the problem, which comes under the stream of development and operations by applying software engineering principles and practices.  
 
 
 
